@@ -1,0 +1,1 @@
+# Patterns2 [![Build status](https://ci.appveyor.com/api/projects/status/gstelqdj3xba46xv?svg=true)](https://ci.appveyor.com/project/Kisulen/patterns-task-2)
